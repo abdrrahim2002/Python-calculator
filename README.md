@@ -1,2 +1,2 @@
 # Python-calculator
-python calculator 🧮
+GUI python calculator 🧮
